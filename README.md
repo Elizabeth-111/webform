@@ -25,5 +25,4 @@ The form allows users to enter basic personal information for registration:
 
 ---
 
-## 📁 Project Structure
 
